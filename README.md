@@ -1,17 +1,18 @@
 # README.md
-Presentación
 
-# 👋 ¡Hola! Soy Juan Machado
+# Juan Machado
 
-Soy un desarrollador web en formación, apasionado por crear interfaces limpias, funcionales y con propósito. Estudio la Licenciatura en Sistemas, mientras complemento mi aprendizaje con proyectos reales y exploración autodidacta. Actualmente estoy construyendo mi camino en el mundo tech, aplicando lo que aprendo y compartiendo mis avances.
+Web developer in the making — curious, creative, and always building.
+Studying Systems Engineering while learning by doing: building real projects, exploring new tools, and trying to improve a bit every day.
+I enjoy crafting clean and meaningful user interfaces, and I'm always up for a good challenge.
 
 
-## 🚀 Tecnologías y herramientas
-- Angular (standalone components)
+## 🚀 Tech I like working with
+- Angular (standalone style)
 - TypeScript & JavaScript
-- HTML, CSS, responsive design
-- Firebase (Auth, Hosting, Firestore)
-- Git y GitHub para control de versiones
+- HTML, CSS & responsive layouts
+- Firebase (Auth, Firestore, Hosting)
+- Git + GitHub
 
 ## 🛠️ Proyectos
 🌐 Mi landing page personal:  
